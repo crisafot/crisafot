@@ -15,7 +15,8 @@ I’m a **Manual QA Specialist** with expertise in ensuring top-quality gameplay
 ## 🛠 **Tools & Platforms I Use**  
 🔧 Proficient with:  
 - **Monday** | **JIRA** | **Confluence**  
-- **Embrace** | **Slack**  
+- **Embrace** | **App Center**
+- **Teams** | **Slack**  
 - **Ironsource** | **AppLovin**
 
 ---
